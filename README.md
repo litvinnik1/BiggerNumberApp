@@ -1,4 +1,4 @@
-![ezgif com-optimize](https://github.com/litvinnik1/BiggerNumberApp/assets/113119709/062bffaf-8ba7-4271-b5a2-c285d7c8ee08)![ezgif com-optimize](https://github.com/litvinnik1/BiggerNumberApp/assets/113119709/47df2c42-2ce0-40ec-a22a-8ea725c687b9)# Bigger Number App
+# Bigger Number App
 
 ## *Nikita Lytvyn*
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/jQgtG1q)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
