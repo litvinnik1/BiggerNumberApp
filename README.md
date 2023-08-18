@@ -1,8 +1,8 @@
-# Bigger Number App
+![ezgif com-optimize](https://github.com/litvinnik1/BiggerNumberApp/assets/113119709/062bffaf-8ba7-4271-b5a2-c285d7c8ee08)![ezgif com-optimize](https://github.com/litvinnik1/BiggerNumberApp/assets/113119709/47df2c42-2ce0-40ec-a22a-8ea725c687b9)# Bigger Number App
 
 ## *Nikita Lytvyn*
 
-**Bigger Number App** User should select a larger number between two buttons, if user answers correctly, the background changes to a green color 
+**Bigger Number App** User should select a larger number between two buttons, if the user answers correctly, the background changes to a green color 
 
 Time spent: **5** hours spent in total
 
@@ -23,9 +23,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
