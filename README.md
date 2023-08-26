@@ -17,7 +17,6 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/vFCZ3yopt8iPbeKWEu/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -27,7 +26,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2023] [Nikita Lytvyn]
+    Copyright 2023 Nikita Lytvyn
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
